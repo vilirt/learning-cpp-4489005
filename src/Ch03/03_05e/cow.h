@@ -1,9 +1,6 @@
-#pragma once
-
 #ifndef COW_H
 #define COW_H
-#include <string>
-
+#include "string"
 enum class cow_purpose {dairy, meat, hide, pet};
 
 class cow{
